@@ -78,10 +78,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "contact me"
+  name             : "Contact Info"
   avatar           : "https://minasliarokapis.com/liarokapis_robot_bw.jpg"
-  bio              : "Building 401, Room 915, 20 Symonds st, Auckland CBD, 1010"
-  location         : "Auckland, New Zealand"
+  bio              : "Building 401, Room 915, 20 Symonds st"
+  location         : "Auckland 1010, New Zealand"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=lgAv28EAAAAJ&hl=el"
   email            : "minas.liarokapis@auckland.ac.nz"
