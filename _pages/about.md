@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="justify">
-I am a Lecturer in the Department of Mechanical Engineering at the University of Auckland (New Zealand) and advisor of the <a href="http://www.newdexterity.org">New Dexterity research group</a>. Previously, I was a Postdoctoral Associate in the GRAB Lab at Yale University working with Prof. <a href="https://seas.yale.edu/faculty-research/faculty-directory/aaron-m-dollar">Aaron Dollar</a>.<br><br>
+I am a Senior Lecturer in the Department of Mechanical Engineering at the University of Auckland (New Zealand) and Director of the <a href="http://www.newdexterity.org">New Dexterity research group</a>. Previously, I was a Postdoctoral Associate in the GRAB Lab at Yale University working with Prof. <a href="https://seas.yale.edu/faculty-research/faculty-directory/aaron-m-dollar">Aaron Dollar</a>.<br><br>
 
 During my postdoctoral training, my research focused on hybrid schemes that combine analytical models, constrained optimization methods and machine learning techniques to simplify robust grasping, dexterous, in-hand manipulation and haptic object identification using adaptive robot hands. During my PhD studies, I worked under the supervision of <a href="http://www.controlsystemslab.gr/kkyria/">Prof. Kostas Kyriakopoulos</a> in the Control Systems Lab and my research focused on EMG-based decoding of human motion and intention for the control of robotic and prosthetic devices in structured and dynamic environments.<br><br>
 
